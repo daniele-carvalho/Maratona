@@ -10,7 +10,8 @@ Repositório criado para armazenar soluções de problemas de programação comp
 ## Problemas:
 
 ### Codeforces:
-- A) Maximize the score.
+- A) 1930A - Maximize the score.
+- D) 271A - Beautiful year.
 
 ### NepsAcademy
 
