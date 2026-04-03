@@ -8,7 +8,7 @@ int main(){
         cin>>s;
         int t= s.size();
         if (t>10){
-            cout<<s[0]<<t-2<<s[t-1]<<endl;
+            cout<<s[0]<<t-2<<s[t-1];
         }else{
             cout<<s<<endl;
         }
