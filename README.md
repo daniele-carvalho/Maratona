@@ -12,6 +12,8 @@ Repositório criado para armazenar soluções de problemas de programação comp
 ### Codeforces:
 - A) 1930A - Maximize the score.
 - D) 271A - Beautiful year.
+- F) 71A - Way Too Long Words.
+- G) 231A - Team.
 
 ### NepsAcademy
 
