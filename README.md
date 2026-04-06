@@ -1,6 +1,6 @@
 # 🏆 Maratona de Programação - Exercícios
 
-Repositório criado para armazenar soluções de problemas de programação competitiva.
+Repositório criado para armazenar soluções de problemas de programação competitiva. No momento, estou seguindo a ordem do próprio codeforces e recentemente comecei a fazer as provas semanais.
 
 ## 📌 Plataformas utilizadas
 
