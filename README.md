@@ -13,7 +13,8 @@ Repositório criado para armazenar soluções de problemas de programação comp
 - A) 1930A - Maximize the score.
 - D) 271A - Beautiful year.
 - F) 71A - Way Too Long Words.
-- G) 231A - Team.
+- G) 282A - Bit++.
+- H) 2218C -  The 67th Permutation Problem.
 
 ### NepsAcademy
 

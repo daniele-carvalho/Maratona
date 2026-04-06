@@ -1,28 +1,23 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+//bits++
 int main(){
-    int l; cin>>l;
-    vector<vector<int>>m(l, vector<int>(3));
+    int n; cin>>n;
+    int x=0;
+    
+    for (int i=0;i<n;i++) {
+        string p; cin>>p;
 
-    for (int i=0; i<l;i++){
-        for (int j=0; j<3;j++){
-            cin>> m.at(i).at(j);
-        }
-    }
-
-    int c=0;
-    int cl=0;
-    for (int i=0; i<l;i++){
-        for(int j=0;j<3;j++){
-            if (m[i][j]==1){
-                c++;
+        for (int j=0;j<3;j++){
+            if (p[j] == '+'){
+                x++;
+                break;
+            } else if (p[j] == '-'){
+                x--;
+                break;
             }
         }
-        if (c>1){
-            cl++;
-        }
-        c=0;
     }
-    cout<<cl<<endl;
+    cout<<x<<endl;
 }
