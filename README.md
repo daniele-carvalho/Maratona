@@ -15,7 +15,8 @@ Repositório criado para armazenar soluções de problemas de programação comp
 - F) 71A - Way Too Long Words.
 - G) 282A - Bit++.
 - H) 2218C -  The 67th Permutation Problem.
-- I ) 2217A - The Equalizer
+- I ) 2217A - The Equalizer.
+- J) 318A - Even Odds.
 
 ### NepsAcademy
 
