@@ -1,8 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-//2185A - Perfect Root
-
 int main (){
     int t; cin>>t;
 

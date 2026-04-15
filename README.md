@@ -1,6 +1,6 @@
 # 🏆 Maratona de Programação - Exercícios
 
-Repositório criado para armazenar soluções de problemas de programação competitiva. No momento, estou seguindo a ordem do próprio codeforces e recentemente comecei a fazer as provas semanais.
+Repositório criado para armazenar soluções de problemas de programação competitiva. 
 
 ## 📌 Plataformas utilizadas
 
@@ -9,16 +9,20 @@ Repositório criado para armazenar soluções de problemas de programação comp
 
 ## Problemas:
 
-### Codeforces:
+### Codeforces e Neps:105272A
 - A) 1930A - Maximize the score.
+- B) Fatorial. (Neps Academy)
+- C) Inversão. (Neps Academy)
 - D) 271A - Beautiful year.
+- E) Fibonacci. (Neps Academy)
 - F) 71A - Way Too Long Words.
 - G) 282A - Bit++.
 - H) 2218C -  The 67th Permutation Problem.
 - I ) 2217A - The Equalizer.
 - J) 318A - Even Odds.
-
-### NepsAcademy
-
-- B) Fatorial.
-- C) Inversão.
+- K) ? - Cosmic candidates.
+- L) ? - Dividing the solar pizzas.
+- M) 105272A - Arc Surveilance  
+- N) 2185A - Perfect Root.
+- O) 158A - Next Round.
+- P)
