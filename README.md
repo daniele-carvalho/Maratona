@@ -6,8 +6,3 @@ Repositório criado para armazenar soluções de problemas de programação comp
 
 - Codeforces
 - Neps Academy
-
-##  Problemas divertidos
-
-- J) 318A - Even Odds.
-- 
