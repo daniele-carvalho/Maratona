@@ -1,5 +1,6 @@
 //617A
 #include <bits/stdc++.h>
+#include <type_traits>
 using namespace std;
 int main (){
     int n, x=0;cin>>n;
