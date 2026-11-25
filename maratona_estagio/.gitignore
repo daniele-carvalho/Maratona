@@ -1,0 +1,7 @@
+# Executáveis
+a.out
+*.out
+
+# Arquivos objeto
+*.o
+
